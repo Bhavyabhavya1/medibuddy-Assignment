@@ -1,5 +1,5 @@
 import React from 'react'
-import './CoinTable.css'
+import './Cointable.css'
 
 const CoinTable = ({coins}) => {
   return (
